@@ -84,9 +84,9 @@ function Exprience() {
               {/* Tech Stack */}
               <div>
                 <h4 className="text-gray-800 font-semibold mb-2">Tech Stack:</h4>
-                <p className="text-gray-700">Node.js, PostgreSQL, Redis,  WebSocket,  GitHub Actions</p>
+                <p className="text-gray-700">Node.js, PostgreSQL, Redis,  WebSocket,  GitHub Actions </p>
               </div>
-            </div>
+            </div> 
           </div>
         </div>
       </div>
